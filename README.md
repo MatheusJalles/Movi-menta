@@ -63,4 +63,4 @@ Não requer instalação de dependências — JavaScript puro.
 ## 👨‍💻 Autor
 
 **Matheus Jalles** — Desenvolvedor Front-End | ADS · PUC Minas  
-[mtjales@gmail.com](mailto:mtjales@gmail.com)
+[contato.matheusjalles@gmail.com](mailto:contato.matheusjalles@gmail.com)
