@@ -56,7 +56,7 @@ Não requer instalação de dependências — JavaScript puro.
 ## 🔗 Links
 
 - 👤 [Portfólio](https://matheusjalles.github.io/portfolio)
-- 💼 [LinkedIn](https://www.linkedin.com/in/matheus-jalles-3078881a8/)
+- 💼 [LinkedIn]((https://www.linkedin.com/in/matheus-jalles )
 
 ---
 
